@@ -49,7 +49,8 @@ bot.command("image", async (ctx) => {
 
 // Chat command
 
-bot.on('text'),async(ctx)=>{const text = ctx.message.text;
+bot.on('text'),async(ctx)=>{
+const text = ctx.message.text;
 
 
 
